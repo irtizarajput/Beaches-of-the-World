@@ -195,4 +195,3 @@
     </div>
   </div>
 
-  [Beaches.docx](https://github.com/user-attachments/files/18336830/Beaches.docx)
